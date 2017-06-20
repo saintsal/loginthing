@@ -182,7 +182,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("https://source.unsplash.com/random/2500x2500") bottom left;
+		background: #348cb2 url("https://source.unsplash.com/random/2500x2500?sky") bottom left;
 		background-repeat: repeat-x;
     background-size: auto, cover;
     width: 100%;
